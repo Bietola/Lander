@@ -5,7 +5,7 @@
 // initialize body global world
 World Body::gWorld(b2Vec2(0.f, 9.8f));
 
-// simple constructore
+// simple constructor
 Body::Body(const b2Vec2& position, const std::initializer_list<b2Vec2>& vertices,
            const float density, const b2BodyType bodyType):
     mSprite(vertices.size())

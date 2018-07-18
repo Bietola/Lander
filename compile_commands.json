@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/dincio/code/SFMLBox/build",
+  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/SFMLBox/usr/local/include -I/home/dincio/code/SFMLBox/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/Body.cpp.o -c /home/dincio/code/SFMLBox/src/Body.cpp",
+  "file": "/home/dincio/code/SFMLBox/src/Body.cpp"
+},
+{
+  "directory": "/home/dincio/code/SFMLBox/build",
+  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/SFMLBox/usr/local/include -I/home/dincio/code/SFMLBox/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/World.cpp.o -c /home/dincio/code/SFMLBox/src/World.cpp",
+  "file": "/home/dincio/code/SFMLBox/src/World.cpp"
+},
+{
+  "directory": "/home/dincio/code/SFMLBox/build",
+  "command": "/usr/bin/c++   -I/usr/local/include -I/home/dincio/code/SFMLBox/usr/local/include -I/home/dincio/code/SFMLBox/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/SFMLBox/src/main.cpp",
+  "file": "/home/dincio/code/SFMLBox/src/main.cpp"
+}
+]
